@@ -1,10 +1,8 @@
 ---
-layout: archive
-title: "test"
 permalink: /test/
+title: "test"
 author_profile: true
-redirect_from:
-  - /resume
 ---
+
 
 #test
