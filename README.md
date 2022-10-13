@@ -1,31 +1,68 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+###  Welcome to everr's person navigation.
+----
+[editor on GitHub](https://github.com/everrwsr/daohang/edit/main/README.md)
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+-----
+------
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+## 个人部署服务汇总
+ - [nav](https://everrwsr.github.io/nav/)
+ - [twiddlywili](https://everr.tiddlyhost.com/)
 
-# Instructions
+-------
+ - [alist](http://everr.xyz:5244/)
+ - [netlify-person-page](https://everr.netlify.app/)
+ - [rsshub](https://rsshub-everrwsr.vercel.app/)
+ - [juypterBook](http://py.everr.xyz/lab?)
+ - [rss](http://rss.everr.xyz/)
+ - [kodbox](http://pan.everr.xyz/)
+ - [melody](http://melody.everr.xyz/)
+ - [永硕E盘](http://everr.ysepan.com/)
+ - [个人zlibrary镜像](https://zlibrary.everr.xyz/)
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+-----
+## 个人常用
+ - [bilibili](https://www.bilibili.com/)
+ - [flomo](https://flomoapp.com/mine)
+ - [个人语雀](https://www.yuque.com/u693751/woygo8/1630a694-5894-4b79-8762-5dd134b9d453)
+ - [个人博客](http://everr.xyz/)
+ - [学习通](http://i.chaoxing.com/base?t=1633319272334)
+ - [腾讯云](https://cloud.tencent.com/login?s_url=https%3A%2F%2Fconsole.cloud.tencent.com%2F)
+ - [宝塔界面](http://101.43.47.117:8888/tencentcloud/)
+ - [英语真题在线](https://zhenti.burningvocabulary.com/)
+ - [wiki](https://everr.tiddlyhost.com/)
 
-See more info at https://academicpages.github.io/
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
+## 聚合搜索系列
+ 
+ - [聚合搜索](https://search.chongbuluo.com/)
+ - [聚合搜索书](https://www.giffox.com/)
+ - [奶酪5000](./奔跑中的奶酪5000个实用网站书签.html)
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
 
-# Changelog -- bugfixes and enhancements
+ ---- 
+## 教务
+ - [教务系统](http://jiaowu.xaufe.edu.cn/)
+ - [通知公告](http://www.xaufe.edu.cn/xxgg1.htm)
+ - [一站式服务平台](http://my.xaufe.edu.cn/ufeportal/user/index)
+ - [webvpn](https://webvpn.xaufe.edu.cn/login)
+ - [caris](https://ds.carsi.edu.cn/login/index.html?entityID=https%3A%2F%2Fds.carsi.edu.cn%2Fshibboleth-sp%2Fcarsifed&return=https%3A%2F%2Fds.carsi.edu.cn%2FShibboleth.sso%2FLogin%3FSAMLDS%3D1%26target%3Dss%253Amem%253A13d3e629d10b5b80cc4f0b390ef7e799d583195390a3b8f0d78c11e7a522d9b4)
+ - [java考试](https://192.168.138.2:8080/jsjwzh/)
 
-There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
+-------
+## 下载
+ - [Zlibrary](https://book4you.org)
+ - [个人zlibrary镜像](https://zlibrary.everr.xyz/)
+ - [zlibrary镜像查询](https://www.ooopn.com/tool/zlibrary/)
+ - [csdn自助下载](https://www.ziquyun.com/main/freeDownload)
+ - [libgen](https://libgen.li/)
+ - [全国图书馆互助参考联盟](http://www.ucdrs.superlib.net/)
+    - [书籍互助查询(要账号密码)](https://u.xueshu86.com/)
+    - [书籍互助查询(不要账号密码)](https://bk.5mbook.com/)
 
-To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+------
+## 科学上网
+ - [TapFog](https://www.tapfog.com/#/login)
+ - [Bulink](https://bulink.xyz/)
+ - [个人部分软件库](https://wwn.lanzoul.com/b02owt9jg?password=1224)
+ > 密码：1224
