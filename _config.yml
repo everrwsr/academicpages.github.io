@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "everr"
-title_separator          : "-"
+title                    : "everr's PersonHomepage"
+title_separator          : "everr's PersonHomepage"
 name                     : &name "everr"
 description              : &description "everr 's homepage"
-url                      : https://everrwsr.github.io/academicpages.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://everrwsr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "everrwsr/academicpages.github.io"
+repository               : "everrwsr/everrwsr.github.io"
 # Site Author
 author:
   name             : "everr"

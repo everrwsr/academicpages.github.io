@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "everr's person navigation"
+excerpt: "About me's tool"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,10 +9,7 @@ redirect_from:
 ---
 
 ###  Welcome to everr's person navigation.
-----
-[editor on GitHub]((https://github.com/everrwsr/everrwsr.github.io/edit/master/_pages/about.md)
 
------
 ------
 
 ## 个人部署服务汇总

@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Blog Posts"
+    url: /year-archive/
 
   - title: "Teaching"
     url: /teaching/    
@@ -12,11 +12,7 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "nav"
+    url: https://everrwsr.github.io/nav/
     
-  - title: "CV"
-    url: /cv/
 
-  - title: "test"
-    url: /test/
