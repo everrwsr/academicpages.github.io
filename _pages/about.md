@@ -10,15 +10,16 @@ redirect_from:
 
 ###  Welcome to everr's person navigation.
 
+[edit](https://github.com/everrwsr/everrwsr.github.io/edit/master/_pages/about.md)
 ------
 
 ## 个人部署服务汇总
  - [nav](https://everrwsr.github.io/nav/)
  - [twiddlywili](https://everr.tiddlyhost.com/)
-
+ - [netlify-person-page](https://everr.netlify.app/)
 -------
  - [alist](http://everr.xyz:5244/)
- - [netlify-person-page](https://everr.netlify.app/)
+
  - [rsshub](https://rsshub-everrwsr.vercel.app/)
  - [juypterBook](http://py.everr.xyz/lab?)
  - [rss](http://rss.everr.xyz/)
@@ -31,13 +32,14 @@ redirect_from:
 ## 个人常用
  - [bilibili](https://www.bilibili.com/)
  - [flomo](https://flomoapp.com/mine)
- - [个人语雀](https://www.yuque.com/u693751/woygo8/1630a694-5894-4b79-8762-5dd134b9d453)
+ - [个人语雀](https://www.yuque.com/u693751/woygo8/)
  - [个人博客](http://everr.xyz/)
  - [学习通](http://i.chaoxing.com/base?t=1633319272334)
  - [腾讯云](https://cloud.tencent.com/login?s_url=https%3A%2F%2Fconsole.cloud.tencent.com%2F)
  - [宝塔界面](http://101.43.47.117:8888/tencentcloud/)
  - [英语真题在线](https://zhenti.burningvocabulary.com/)
  - [wiki](https://everr.tiddlyhost.com/)
+ - [XAUFE一站式服务平台]()
 
 
 ## 聚合搜索系列
