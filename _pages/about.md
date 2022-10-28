@@ -68,6 +68,8 @@ redirect_from:
  - [全国图书馆互助参考联盟](http://www.ucdrs.superlib.net/)
     - [书籍互助查询(要账号密码)](https://u.xueshu86.com/)
     - [书籍互助查询(不要账号密码)](https://bk.5mbook.com/)
+    - [freebook](https://freembook.com/)
+    - [长春图书馆]()
 
 ------
 ## 科学上网
