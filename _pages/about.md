@@ -17,6 +17,7 @@ redirect_from:
  - [nav](https://everrwsr.github.io/nav/)
  - [twiddlywili](https://everr.tiddlyhost.com/)
  - [netlify-person-page](https://everr.netlify.app/)
+ - [myblog](https://everrwsr.github.io/myblog/)
 -------
  - [alist](http://everr.xyz:5244/)
 
