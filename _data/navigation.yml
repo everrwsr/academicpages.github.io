@@ -6,12 +6,6 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
-  - title: "Teaching"
-    url: /teaching/
-
-  - title: "Portfolio"
-    url: /portfolio/
-
   - title: "nav"
     url: https://everrwsr.github.io/nav/
 
