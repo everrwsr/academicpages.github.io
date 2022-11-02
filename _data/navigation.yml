@@ -1,7 +1,16 @@
 # main links links
 main:
+  - title: "Publications"
+    url: /publications/
+
   - title: "Blog Posts"
-    url: /BlogPosts/
+    url: /year-archive/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Portfolio"
+    url: /portfolio/
 
   - title: "nav"
     url: https://everrwsr.github.io/nav/
