@@ -20,6 +20,7 @@ redirect_from:
  - [twiddlywili](https://everr.tiddlyhost.com/)
  - [netlify-person-page](https://everr.netlify.app/)
  - [myblog](https://everrwsr.github.io/myblog/)
+ - [blog](https://everrwsr.github.io/memehugo/)
 -------
  - [alist](http://everr.xyz:5244/)
 
